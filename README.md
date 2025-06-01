@@ -66,13 +66,10 @@ Take your gameplay to the next level with our advanced, undetected tool for **XD
 
 ## 🖼️ Screenshot Preview
 
-![Preview](https://i.postimg.cc/DfBhCQd7/sample-screenshot.jpg)
+[![9-N4amzv-png.webp](https://i.postimg.cc/9Mg6x0fZ/9-N4amzv-png.webp)](https://postimg.cc/gXRtjY82)
 
 ---
 
-## ❗ Disclaimer
-
-This tool is intended for educational purposes only. Usage in multiplayer may violate the game’s terms of service.
 
 ---
 
